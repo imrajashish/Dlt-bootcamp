@@ -20,7 +20,7 @@ public class Student {
         return courseId;
     }
 
-    public void setCourses(Integer courseId) {
+    public  void setCourseId(Integer courseId){
         this.courseId = courseId;
     }
 
